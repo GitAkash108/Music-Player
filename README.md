@@ -23,9 +23,3 @@ All music files and images are stored locally in the **assets** folder.
 - **JavaScript (ES6)** — interactivity and audio control logic  
 
 ---
-
-## ⚙️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/music-player-app.git
